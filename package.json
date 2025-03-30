@@ -1,0 +1,12 @@
+{
+    "name": "tmdb-proxy",
+    "version": "1.0.0",
+    "description": "TMDB API proxy service",
+    "main": "api/tmdb.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "axios": "^1.6.7"
+    }
+}
